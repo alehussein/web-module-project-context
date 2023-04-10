@@ -2,7 +2,7 @@
 	display: block;
 	margin: 0 auto;
 	width: 1000px;
-	background: white;
+	background: rgb(255, 255, 255);
 	border-radius: 5px;
 }
 
@@ -49,7 +49,7 @@
 
 .shopping-cart__checkout {
 	margin: 30px 0;
-	border-top: 1px solid lightgray;
+	border-top: 1px solid rgb(255, 252, 252);
 	padding: 20px 30px;
 	display: flex;
 	justify-content: space-between;
@@ -59,11 +59,11 @@
 }
 
 .shopping-cart button {
-	border: 1px solid white;
+	border: 1px solid rgb(236, 170, 170);
 	background: transparent;
 	border-radius: 5px;
 	padding: 10px;
-	color: white;
+	color: rgb(233, 179, 179);
 }
 
 .shopping-cart button:hover {
